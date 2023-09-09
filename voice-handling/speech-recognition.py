@@ -5,7 +5,7 @@ import time
 start_time = time.time()
 recognizer = sr.Recognizer()
 
-harvard = sr.AudioFile("voice-handling/audio/PatientDoctorConvo.wav")
+harvard = sr.AudioFile("voice-handling/audio/GayatriConversation.wav")
 with harvard as source:
     audio = recognizer.record(source)
 
