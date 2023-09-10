@@ -111,6 +111,8 @@ input::placeholder {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
+  width: 100%;
+  max-width: 800px; /* This line ensures that the maximum width is 800px */
 }
 
 .input-container input {
