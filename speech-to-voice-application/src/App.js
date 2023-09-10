@@ -166,9 +166,9 @@ const App = () => {
   };
 
   return (
-    <>
+    <body>
       <div className="container">
-        <h2>Patient Client Conversation Recorder</h2>
+        <h1>Patient Client Conversation Recorder</h1>
         <br />
         <p>Record your conversation and pause whenever needed!</p>
 
@@ -211,7 +211,7 @@ const App = () => {
           Submit Question
         </button>
       </div>
-    </>
+    </body>
   );
 };
 

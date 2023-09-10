@@ -164,7 +164,7 @@ input::placeholder {
 
 .conversation-placeholder {
   font-style: italic;
-  color: grey;
+  color: #505050;
 }
 
 .conversation-item {
