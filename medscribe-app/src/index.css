@@ -1,0 +1,157 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Fredericka+the+Great&family=Playfair+Display:ital,wght@1,600&family=Ubuntu:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Fredericka+the+Great&family=Noto+Serif+JP:wght@700&family=Playfair+Display:ital,wght@1,600&family=Ubuntu:ital@1&display=swap");
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.divider {
+  width: 200px;
+  height: 100px;
+}
+
+.output_text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  text-shadow: gray 0 1px;
+  font-size: 30px;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  background-color: #eef2f7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+.center-text2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  background-color: #eef2f7;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+.center-text h1 {
+  font-size: 2 rem;
+  margin: 0;
+  font-family: "Playfair Display", serif;
+}
+.center-text2 h1 {
+  font-size: 2 rem;
+  margin: 0;
+  font-family: "Playfair Display", serif;
+}
+
+.background {
+  background-color: #88c0d0;
+}
+
+.containerBox {
+  display: flex;
+}
+.box {
+  flex: 1;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7rem;
+}
+.box1 {
+  flex: 1;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}
+
+.bottomBox {
+  background-color: #fff;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  text-align: center;
+}
+.box h1 {
+  margin: 0 0 10px;
+  font-size: 1.5em;
+}
+.box p {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+.backgroundGif {
+  background-image: url("https://gifdb.com/gif/doctor-s-head-nodding-fit66ertugvd692i.html?embed=true");
+  width: 100px;
+  height: 100px;
+  background-size: cover;
+}
+
+.backgroundImage {
+  background-image: url("https://path.to/your/image.jpg");
+  display: flex;
+  height: 70px;
+  width: 70px;
+  background-repeat: no-repeat;
+  background-position: center; /* this will center the image */
+}
+
+.gif {
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  margin: 0; /* Add this to remove potential margins */
+  padding: 0; /* Add this to remove potential padding */
+}
+
+.text-overlay {
+  position: absolute;
+  top: 78%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: "Noto Serif JP", serif;
+}
+
+.luis img {
+  border-radius: 50%; /* this will create a rounded border */
+  border: 2px solid #ccc; /* optional: add a border */
+  max-width: 100%; /* ensure the image does not exceed its container */
+}
+
+.luis {
+  padding-left: 12px;
+}
