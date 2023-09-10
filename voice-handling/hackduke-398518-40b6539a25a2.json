@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hackduke-398518",
+  "private_key_id": "40b6539a25a2b8cdaf7ae282663f8eadb156bf35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4YA9FtQX1yv3R\nrDWPjeC5UixHRlQ1vhkFqnT9Jqx3VLbB7owf43OSqXvNk6VM5bF4TEu0pW2MB+M6\nfnkuNAAFKq7dFNTAt00VkWDjMJlGEZpgPBk8F9s2ogaiGFlWZ5y90dUBeywh0N0O\nWfD01x3N3TWQc4GWWkhzZwnEnnvsnw8GPZrb8gU+7/hco2l2N7IAbyBvg1Bh/n56\nIYZuA4dm7JNi4De5XY4xwvgvi7DK/uWcBOBgVnT0Y7pbkAYn5hsGaohEKrF5jOo4\nHdbUalzddvzHpZhfXnCQvgVYOBKTCMvD8y9S5GmBPzIiicOx8muxXB9Cy8f4fXhZ\nP2VPDw59AgMBAAECggEAIuSzHzsiNKFFJhBUVqXAOPJvRNHvj/g5HhRjbaGLFE5p\nBAzUYhiWv9PphT+DEimKS70MutRwBgdcHq7e2jqnIlMwotCVbx+BrCpGTtjcuSEN\nuVbGY9QT/aPuY3D+P1b+mAIFMPGRqZiwrU2iR4QKtPI/d+YUSVMu0QBYHejshRxF\n7hSUEtsh+o7a9SwBUxS26qVBxt4c7lQv/e23i8wTr5OC8AEpX5oG9W7nOcHQ+E2c\ncu3abvMlzRpn66ct3MgfuOC3nYWxDSnQEBRzCRDPRnhdEON51KVnhgUtAOkqcELm\nCDPCo4aIDwyIcLP5RlR5gSYIZ8LSy7h30OIqnK0/AQKBgQD9yow4gmKSfU3Xvl8n\n/s+8Cjjjl8rZmcYUpoBN36LZaM5Wp0EDP4p/3BI+zQluLzpGGhn8IF31ClGWqCrq\nyXnzwirf6ZhcZu6vZFoPk8n3t+Le0bDJ7058jnZHv86qJrmSq07II+RQw6P/hDJ8\nlgvhcqUQRW+4KAUO2REYNltmvQKBgQC5+toFgFwOwtrA3jCjJ5Gx/HufBn5TJedV\nCiV+dCwj9VeLXH1Dxm62azNCdpH5FfIjx3f69UhXShBichZf6meFA6LIPOfFUSPU\nNN29xJpcc5XRsK07alHKsvymtCDEl9+4ArS7k0mVj3aXtY11a1Q+9RnklBHELXLp\nJyO5IV+iwQKBgQCqHU+aPUOHf7hi6bds3q8uEwgI/mE5NIsCooyUJlhJNKhCiz/X\nxoq2o7QTJmqw0bVU8gAC8Uspii4gNz71O/Gjw73rcu/u2Awbwr9fe6fAhSDsTFAd\nO2w3r2J3O4lyohx3xJ49J1nODSVri5gvzH/QMYGVA4YcQa8KQdPkj+L6XQKBgAi4\nc3qojyh+CIXcpUkxNMq0vRMy2b+KWnOJW0K3rc4t1eIJ/zGrX0uccTXfm26jkcwN\nsVmKIM8/AM+s69GpixsYlYxwFqoQ6O4tYGxiiJ5nKRJBB45uqNEpXWFvts2hFXNq\nZREakeu6Y2QvtidYVgXxtjoam06olufJ1wn6P6LBAoGBAPDVfMdkMsx7ZFek2Lel\npFtmsfvvLkFkaEhfz/LIaGeSYcHoGE+yFn+HwDfPboJEgxxG+xLKFDvVt/oXSBBK\nhO5In1ykbTi53144c/Vxhi60eQZJk1DGFQklk4tMaseGq0MItMOCIGNCSje8kjlp\nnc/0U6bo08EDNcCQFelPOtsD\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-speech-to-text-user-316@hackduke-398518.iam.gserviceaccount.com",
+  "client_id": "110970152700314485653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-speech-to-text-user-316%40hackduke-398518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
